@@ -4,14 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MKeznJg9AgkcZWsntVh2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MKeznJg9AgkcZWsntVh2-1" target="MKeznJg9AgkcZWsntVh2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MKeznJg9AgkcZWsntVh2-1" value="认证资料收集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#6c8ebf;strokeWidth=3;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="280" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MKeznJg9AgkcZWsntVh2-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#6c8ebf;strokeWidth=3;fillStyle=auto;" vertex="1" parent="1">
+        <mxCell id="MKeznJg9AgkcZWsntVh2-2" value="从AVL内查找关键件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#6c8ebf;strokeWidth=3;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MKeznJg9AgkcZWsntVh2-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#6c8ebf;strokeWidth=3;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="120" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MKeznJg9AgkcZWsntVh2-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#6c8ebf;strokeWidth=3;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="170" y="400" width="120" height="60" as="geometry" />
