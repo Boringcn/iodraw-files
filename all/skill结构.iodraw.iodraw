@@ -10,7 +10,7 @@
         <mxCell id="MKeznJg9AgkcZWsntVh2-1" value="认证资料收集启动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#6c8ebf;strokeWidth=3;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="280" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MKeznJg9AgkcZWsntVh2-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MKeznJg9AgkcZWsntVh2-2" target="MKeznJg9AgkcZWsntVh2-5">
+        <mxCell id="MKeznJg9AgkcZWsntVh2-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="MKeznJg9AgkcZWsntVh2-2" target="MKeznJg9AgkcZWsntVh2-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MKeznJg9AgkcZWsntVh2-2" value="从AVL内查找关键件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#6c8ebf;strokeWidth=3;fillStyle=auto;" vertex="1" parent="1">
