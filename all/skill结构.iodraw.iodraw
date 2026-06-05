@@ -16,6 +16,9 @@
         <mxCell id="MKeznJg9AgkcZWsntVh2-2" value="从AVL内查找关键件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#6c8ebf;strokeWidth=3;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="280" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MKeznJg9AgkcZWsntVh2-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MKeznJg9AgkcZWsntVh2-3" target="MKeznJg9AgkcZWsntVh2-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MKeznJg9AgkcZWsntVh2-3" value="编写邮件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#6c8ebf;strokeWidth=3;fillStyle=auto;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="280" y="410" width="120" height="60" as="geometry" />
         </mxCell>
@@ -48,6 +51,9 @@
         </mxCell>
         <mxCell id="MKeznJg9AgkcZWsntVh2-24" value="核查收件人" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;rounded=1;strokeWidth=3;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="530" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKeznJg9AgkcZWsntVh2-26" value="" style="whiteSpace=wrap;html=1;fontSize=11;strokeColor=#6c8ebf;rounded=1;strokeWidth=3;fillStyle=auto;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="280" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
