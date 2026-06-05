@@ -40,7 +40,7 @@
         <mxCell id="MKeznJg9AgkcZWsntVh2-19" value="认证资料收集启动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#6c8ebf;strokeWidth=3;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="540" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MKeznJg9AgkcZWsntVh2-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MKeznJg9AgkcZWsntVh2-20" target="MKeznJg9AgkcZWsntVh2-22">
+        <mxCell id="MKeznJg9AgkcZWsntVh2-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MKeznJg9AgkcZWsntVh2-20" target="MKeznJg9AgkcZWsntVh2-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MKeznJg9AgkcZWsntVh2-20" value="运行收集skill" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#6c8ebf;strokeWidth=3;fillStyle=auto;" vertex="1" parent="1">
@@ -52,8 +52,8 @@
             <mxPoint x="599.8" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MKeznJg9AgkcZWsntVh2-22" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;strokeColor=#6c8ebf;rounded=1;strokeWidth=3;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="560" y="420" width="80" height="60" as="geometry" />
+        <mxCell id="MKeznJg9AgkcZWsntVh2-24" value="" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;rounded=1;strokeWidth=3;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="540" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
